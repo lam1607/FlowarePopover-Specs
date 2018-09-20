@@ -212,7 +212,7 @@ Select the target screen in your project, then add the following line:
 
 ## Detail reference
 
-For more detail, please take a look at [FlowarePopover](https://github.com/lam1607/FlowarePopover) repository with the sample project [FlowarePopover-Sample](FlowarePopover-Sample).
+For more detail, please take a look at [FlowarePopover](https://github.com/lam1607/FlowarePopover) repository with the sample project [FlowarePopover-Sample](https://github.com/lam1607/FlowarePopover/tree/master/FlowarePopover-Sample).
 
 ## Contributing
 
